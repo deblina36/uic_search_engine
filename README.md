@@ -14,4 +14,5 @@ ast, nltk, tkinter, numpy, operator, collections, queue, html2text BeautifulSoup
 5. It will print the first 10 results using cosine similarity at the beginning.
 6. To re-order using pagerank, check 'Use PageRank Algorithm'
 7. Click 'Next' to show more results.
-8. You don't need to download crawler.py to run the code
+
+You don't need to download crawler.py to run the code. 
